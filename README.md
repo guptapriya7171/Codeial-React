@@ -1,4 +1,4 @@
-# Codeial-React
+# Codeial-React ![example workflow](https://img.shields.io/badge/Stack-React-red)
 ## A social networking site CODEIAL which will basically have the features of login, signup, post creation, and deletion, like, comment, chat etc. 
 ## Authentication token has been added
 ![Capture1](https://user-images.githubusercontent.com/96413187/190472491-096621f0-2c3c-4bb5-8d3e-53cf85b74f3b.PNG)
