@@ -60,7 +60,7 @@ const Navbar = () => {
                 >
                   <Link to={`/user/${user._id}`}>
                     <img
-                      src="https://cdn-icons-png.flaticon.com/512/727/727399.png"
+                      src="https://cdn-icons-png.flaticon.com/512/892/892781.png"
                       alt=""
                     />
                     <span>{user.name}</span>
@@ -77,7 +77,7 @@ const Navbar = () => {
           <div className={styles.user}>
             <Link to="/settings">
               <img
-                src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png"
+                src="https://cdn-icons-png.flaticon.com/512/8472/8472284.png"
                 alt=""
                 className={styles.userDp}
               />
